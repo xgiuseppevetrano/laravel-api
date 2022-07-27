@@ -2239,13 +2239,7 @@ var render = function render() {
         name: "about"
       }
     }
-  }, [_vm._v("Chi Siamo")])], 1), _vm._v(" "), _c("li", [_c("router-link", {
-    attrs: {
-      to: {
-        name: "categories"
-      }
-    }
-  }, [_vm._v("Categorie")])], 1), _vm._v(" "), _vm._m(1)])])])])])]);
+  }, [_vm._v("Chi Siamo")])], 1), _vm._v(" "), _vm._m(1)])])])])])]);
 };
 
 var staticRenderFns = [function () {
